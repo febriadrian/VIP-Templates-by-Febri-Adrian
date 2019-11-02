@@ -1,6 +1,5 @@
 # Clean Swift (VIP) Templates
-Modified by Febri Adrian - febriadrian.dev@gmail.com
-Last modified by Ari Munandar - arimunandar.dev@gmail.com
+Modified by Febri Adrian - febriadrian.dev@gmail.com, original by modified by Ari Munandar - arimunandar.dev@gmail.com
 
 Requirements :
 * `Swift 5`
