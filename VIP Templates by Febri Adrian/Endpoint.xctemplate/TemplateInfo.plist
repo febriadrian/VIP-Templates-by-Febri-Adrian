@@ -30,7 +30,7 @@
 			<key>Identifier</key>
 			<string>viperModuleName</string>
 			<key>Name</key>
-			<string>This will be created a new file AppRouter.swift by dafault</string>
+			<string>This will create a new file Endpoint.swift by dafault</string>
 			<key>Required</key>
 			<string>NO</string>
 			<key>Type</key>

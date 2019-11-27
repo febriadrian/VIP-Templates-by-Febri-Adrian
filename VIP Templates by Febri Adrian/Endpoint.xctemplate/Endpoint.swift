@@ -11,7 +11,7 @@
 import Foundation
 import Alamofire
 
-enum ___VARIABLE_productName:identifier___Endpoint {
+enum Endpoint {
     /*
      Add Endpoint
      case sample
@@ -19,7 +19,7 @@ enum ___VARIABLE_productName:identifier___Endpoint {
     */
 }
 
-extension ___VARIABLE_productName:identifier___Endpoint: IEndpoint {
+extension Endpoint: IEndpoint {
     var method: HTTPMethod {
         /*
         Do like this:
